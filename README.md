@@ -7,3 +7,7 @@
 
 
 ![swagger1](https://github.com/scexamples/simple-message-system/assets/15854708/b0587d0d-c510-496b-a581-603fcc742324)
+
+![emailTemplate1](https://github.com/scexamples/simple-message-system/assets/15854708/0bcd0e3b-a1c9-4c52-9729-03b0da0d23bb)
+
+![swagger1](https://github.com/scexamples/simple-message-system/assets/15854708/cc2248bb-d5ba-4355-b808-6a8bbeaed1f4)
