@@ -1,13 +1,6 @@
 # simple-message-system
 
-![emailTemplate](https://github.com/scexamples/simple-message-system/assets/15854708/aab6864c-2cc6-485b-986a-e728aad6f035)
-
-
-![emailTemplate1](https://github.com/scexamples/simple-message-system/assets/15854708/c89d9056-47c6-4b29-a905-b1cc1f173477)
-
-
-![swagger1](https://github.com/scexamples/simple-message-system/assets/15854708/b0587d0d-c510-496b-a581-603fcc742324)
-
-![emailTemplate1](https://github.com/scexamples/simple-message-system/assets/15854708/0bcd0e3b-a1c9-4c52-9729-03b0da0d23bb)
+![emailTemplate](https://github.com/scexamples/simple-message-system/assets/15854708/750b2cbc-783c-44ab-ae5e-0dcee17029a8)
 
 ![swagger1](https://github.com/scexamples/simple-message-system/assets/15854708/cc2248bb-d5ba-4355-b808-6a8bbeaed1f4)
+
